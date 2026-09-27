@@ -5,12 +5,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD1ce06Jk_NaXkYxSzPyHqZo4Q28VC13ko",
-  authDomain: "dexreservour.firebaseapp.com",
-  projectId: "dexreservour",
-  storageBucket: "dexreservour.firebasestorage.app",
-  messagingSenderId: "402820645234",
-  appId: "1:402820645234:web:8d52c4f50bfba6284c9deb"
+  apiKey: "AIzaSyAOrPstjNZkOLkhvXz9_0O4nxcxPr4v-Lo",
+  authDomain: "fenixrez-273a3.firebaseapp.com",
+  projectId: "fenixrez-273a3",
+  storageBucket: "fenixrez-273a3.firebasestorage.app",
+  messagingSenderId: "234396013606",
+  appId: "1:234396013606:web:766d09fcceb08acca602e7"
 };
 
 const app = initializeApp(firebaseConfig);
